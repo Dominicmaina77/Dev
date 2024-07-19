@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.heading1 h1{
+    font-size: 50px;
+    font-style: oblique;
+}
+.heading1 p{
+    font-size: 15px;
+    color: lightgray;
+}
+.container{
+    background-color: transparent;
+    width: 80%;
+    margin: 10%;
+    height: 900px;
+
+}
+.heading1{
+    padding: 20px;
+    text-align: center;
+    color: white;
+    
+}
+.imagecontainer{
+    width: 100%;
+    height: 400px;
+
+}
+.imagecontainer img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
+.container2{
+    background-color: white;
+    width: 100%;
+    height: 300px;
+
+}
+.heading2{
+    padding: 20px;
+    text-align: center;
+    color: black;
+}
+.paragraph{
+    color: black;
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+}
+.container3{
+    height: 700px;
+    width: 100%;
+    background-color: #1e1f23;
+    display: grid;
+    place-items: center;
+}
+.container4{
+    width: 80%;
+    background-color: black;
+    height: 80%;
+
+}
+.heading3{
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+.gallery{
+    height: 100%;
+    width: 100%;
+    background-color: #1e1f23;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.imagecontainer2{
+    height: 50%;
+    width: 50%;
+    
+}
+.imagecontainer2 img{
+    height: 100%;
+    width: 100%;
+}
+.container5{
+    width: 100%;
+    background-color: #1e1f23;
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+}
+.imagecontainer3{
+    height: 33.33%;
+    object-fit: cover;
+    width: 50%;
+    background-color: #1e1f23;
+}
+.imagecontainer3 img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+
+}
+.imagecontainer3 p{
+       display: grid;
+       background-color: #f5f5f3;
+       font-size: 15px;
+       height: 100%;
+       width: 100%;
+       color: #f5f5f3;
+       
+}
+.imagecontainer3 p{
+    background-color: #1e1f23;
+    font-size: 15px;
+    list-style: none;
+    display: grid;
+    color: #f5f5f3;
+    width: 100%;
+    height: 100%;
+}
+.heading4{
+    margin-top: 5rem;
+
+}
+.heading5{
+    margin-top: 5rem;
+}
+.heading6{
+    margin-top: 5rem;
+}
+p{
+    padding: 20px;
+
+}
+.textconatiner1{
+    background-color: #f5f5f3;
+    
+}
+.textconatiner3{
+    background-color: #f5f5f3;
+
+}
+.textcontainer3 p{
+    background-color: #f5f5f3;
+    color: #1e1f23;
+}
+.textcontainer1 p{
+    background-color: #f5f5f3;
+    color: #1e1f23;
+}
+.textcontainer2{
+    background-color: #1e1f23;
+}
+.container6{
+    display: flex;
+    background-color: white;
+    
+}
+
+
+
+
